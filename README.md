@@ -1,4 +1,5 @@
-![S4Like logo](https://github.com/1cosmologist/s4like/blob/main/logo/logo.png)
+<!-- ![S4Like logo](https://github.com/1cosmologist/s4like/blob/main/logo/logo.png) -->
+<img src="https://github.com/1cosmologist/s4like/blob/main/logo/logo.png" alt="S4Like logo" style="width:50%; height:auto;">
 # S4Like
 ### CMB-S4 r Likelihood
 
